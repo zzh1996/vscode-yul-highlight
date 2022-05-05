@@ -11,7 +11,7 @@
       "name": "entity.name.type.class"
     },
     {
-      "match": "\\b(break|case|continue|default|for|function|if|leave|let|switch|hex)\\b",
+      "match": "\\b(break|case|continue|default|for|function|if|leave|let|switch|hex|object|code|data)\\b",
       "name": "keyword"
     },
     {
