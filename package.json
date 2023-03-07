@@ -1,10 +1,10 @@
 {
     "name": "yulhighlight",
-    "displayName": "YulHighlight",
-    "description": "",
+    "displayName": "Yul Highlight",
+    "description": "Code highlighting for Yul Language EVM dialect",
     "version": "0.0.1",
     "engines": {
-        "vscode": "^1.67.0"
+        "vscode": "^1.76.0"
     },
     "categories": [
         "Programming Languages"
@@ -33,5 +33,10 @@
     },
     "devDependencies": {
         "js-yaml": "^4.1.0"
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zzh1996/vscode-yul-highlight.git"
+    },
+    "publisher": "zzh1996"
 }
